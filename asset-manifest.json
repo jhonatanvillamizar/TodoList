@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Users/ricardocamacho/Desktop/Frontend-con-react/REACT-TodoList/build/static/css/main.3fd8014d.css",
-    "main.js": "/Users/ricardocamacho/Desktop/Frontend-con-react/REACT-TodoList/build/static/js/main.01a1f4f0.js",
-    "index.html": "/Users/ricardocamacho/Desktop/Frontend-con-react/REACT-TodoList/build/index.html",
-    "static/media/delete.svg": "/Users/ricardocamacho/Desktop/Frontend-con-react/REACT-TodoList/build/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
-    "static/media/check.svg": "/Users/ricardocamacho/Desktop/Frontend-con-react/REACT-TodoList/build/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
-    "main.3fd8014d.css.map": "/Users/ricardocamacho/Desktop/Frontend-con-react/REACT-TodoList/build/static/css/main.3fd8014d.css.map",
-    "main.01a1f4f0.js.map": "/Users/ricardocamacho/Desktop/Frontend-con-react/REACT-TodoList/build/static/js/main.01a1f4f0.js.map"
+    "main.css": "/TodoList/static/css/main.3fd8014d.css",
+    "main.js": "/TodoList/static/js/main.2e94d3e4.js",
+    "index.html": "/TodoList/index.html",
+    "static/media/delete.svg": "/TodoList/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/TodoList/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.3fd8014d.css.map": "/TodoList/static/css/main.3fd8014d.css.map",
+    "main.2e94d3e4.js.map": "/TodoList/static/js/main.2e94d3e4.js.map"
   },
   "entrypoints": [
     "static/css/main.3fd8014d.css",
-    "static/js/main.01a1f4f0.js"
+    "static/js/main.2e94d3e4.js"
   ]
 }
